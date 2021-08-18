@@ -1,0 +1,15 @@
+{
+  "name": "cryptProjet",
+  "version": "1.0.0",
+  "description": "Test de cryptage de data",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12"
+  }
+}
